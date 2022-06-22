@@ -13,6 +13,8 @@ public class FirstClass {
 
         FirstClass f = new FirstClass();
         f.test();
+
+        //克隆操作
     }
 
     public void test(){
